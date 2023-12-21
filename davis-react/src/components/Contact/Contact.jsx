@@ -44,8 +44,7 @@ const Contact = ({ data, socialData }) => {
                 </div>
                 <div className="st-single-info-details">
                   <h4>Email</h4>
-                  <Link to="#">devis@example.com</Link>
-                  <Link to="#">info@support.com</Link>
+                  <Link to="#">naser@webandme.com</Link>
                 </div>
               </div>
               <div className="st-single-contact-info">
@@ -54,8 +53,7 @@ const Contact = ({ data, socialData }) => {
                 </div>
                 <div className="st-single-info-details">
                   <h4>Phone</h4>
-                  <span>+1 876-369-9009</span>
-                  <span>+1 213-519-1786</span>
+                  <span>+1 707-244-1053</span>
                 </div>
               </div>
               <div className="st-single-contact-info">
@@ -64,7 +62,7 @@ const Contact = ({ data, socialData }) => {
                 </div>
                 <div className="st-single-info-details">
                   <h4>Address</h4>
-                  <span>2661 High Meadow Lane Bear Creek, <br />Olancha, KY 93544</span>
+                  <span>PO BOX 12094 <br />Chandler, AZ 96248</span>
                 </div>
               </div>
               <div className="st-social-info">
