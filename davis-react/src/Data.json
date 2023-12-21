@@ -30,16 +30,13 @@
     "imgLink": "/images/section/about.jpg",
     "cvPdf": "/images/Resume.pdf",
     "title": "Hi There! I'm Dr. Naser Chowdhury",
-    "subtitle": "Visual Designer",
-    "text": "I am a Visual Designer with a strong focus on digital branding. Visul design seeks to attract, inspire, create desires and otivate people to respond to messages, with a view to making a favorable impact.",
+    "subtitle": "AI Scientist and Engineer",
+    "text": "I am an AI Scientist and Engineer with 10+ Years of Experience",
     "details": [
-      {
-        "title": "Birthday",
-        "info": "May 07, 1990"
-      },
+      
       {
         "title": "Phone",
-        "info": "+1 876-369-9009"
+        "info": "+1 707-244-1053"
       },
       {
         "title": "Email",
@@ -47,18 +44,18 @@
       },
       {
         "title": "From",
-        "info": "2661 Hich meadow lane bear creek"
+        "info": "PO BOX 12094, Chandler, AZ 85248"
       },
       {
         "title": "Language",
-        "info": "English, Germanic"
+        "info": "English"
       },
       {
-        "title": "Freelance",
+        "title": "AWS Architect",
         "info": "Available"
       },
       {
-        "title": "Freelance",
+        "title": "AI Engineer",
         "info": "Available"
       }
     ]
