@@ -40,7 +40,7 @@
       },
       {
         "title": "Email",
-        "info": "devis@example.com"
+        "info": "naser@webandme.com"
       },
       {
         "title": "From",
@@ -64,40 +64,40 @@
     "services": [
       {
         "imgLink": "./images/icon/icon1.png",
-        "title": "Sketches",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Machine Learning",
+        "text": "Supervised Machine Learning, Unsupervised Machine Learning and Predictive Analysis.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "200"
       },
       {
         "imgLink": "./images/icon/icon2.png",
-        "title": "UI/UX Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Large Language Models",
+        "text": "Falcon, LLaMA, GPT-3.5, and Bloom.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "300"
       },
       {
         "imgLink": "./images/icon/icon3.png",
-        "title": "Product Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Vector DB",
+        "text": "Vector Embedding, Real-Time Vector DB, and Batch Vector DB",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "400"
       },
       {
         "imgLink": "./images/icon/icon4.png",
-        "title": "App Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Data Pipeline",
+        "text": "Data ETL from Real time and Batch Data sources into DataLake and Data Lakehouses.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "500"
       },
       {
         "imgLink": "./images/icon/icon5.png",
-        "title": "Motion Graphics",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Full Stack Software Development",
+        "text": "Front End, Back End, and Middle Layer including Infrastructure and API Layer management.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "600"
@@ -105,7 +105,7 @@
       {
         "imgLink": "./images/icon/icon6.png",
         "title": "Responsive Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "text": "Expert in Resposive Web Design",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "700"
