@@ -371,6 +371,7 @@
       }
     ]
   },
+  
   "blogData": {
     "useFor": "blog",
     "sliderSetting": {
@@ -530,22 +531,22 @@
     "educationTitle": "Education",
     "education": [
       {
-        "title": "Master of Computer Science",
-        "duration": "2015 - 2016",
-        "subTitle": "University of XYZ",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Doctor of Philisophy",
+        "degree earned": "2018",
+        "subTitle": "Capella University",
+        "text": "Information Technology"
       },
       {
-        "title": "Bachelor of Computer Science",
-        "duration": "2010 - 2014",
-        "subTitle": "University of ABC",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Master of Business Adminstration",
+        "degree earned": "2009",
+        "subTitle": "Marylhurst University",
+        "text": "General Management"
       },
       {
-        "title": "Diploma in Computer Science",
-        "duration": "2006 - 2010",
-        "subTitle": "XYZ Institution",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "BS in Aeronautical and Astronautical Engineering",
+        "degree earned": "2002",
+        "subTitle": "The Ohio State University",
+        "text": "Specilization in Astronautical Engineering"
       }
     ]
   },
@@ -556,16 +557,7 @@
     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla tincidunt id faucibus sed suscipit feugiat."
   },
   "socialData": [
-    {
-      "icon": "dribbble",
-      "title": "Dribbble",
-      "link": "/"
-    },
-    {
-      "icon": "behance",
-      "title": "Behance",
-      "link": "/"
-    },
+   
     {
       "icon": "twitter",
       "title": "Twitter",
