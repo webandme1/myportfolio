@@ -401,42 +401,42 @@
         "imgLink": "./images/blog/blog1.jpg",
         "designation": "Admin",
         "date": "07-03-2023",
-        "title": "latest trends in Graphic design according to you?",
+        "title": "latest trends in Machine Learning",
         "href": "/blog/blog-details"
       },
       {
         "imgLink": "./images/blog/blog2.jpg",
         "designation": "Admin",
         "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
+        "title": "What are the latest trends in LLM?",
         "href": "/blog/blog-details"
       },
       {
         "imgLink": "./images/blog/blog3.jpg",
         "designation": "Admin",
         "date": "07-03-2023",
-        "title": "Trends in Graphic design according to you?",
+        "title": "Trends in Predictive Analytics",
         "href": "/blog/blog-details"
       },
       {
         "imgLink": "./images/blog/blog1.jpg",
         "designation": "Admin",
         "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
+        "title": "What are the latest Trends in Vector DB",
         "href": "/blog/blog-details"
       },
       {
         "imgLink": "./images/blog/blog2.jpg",
         "designation": "Admin",
         "date": "07-03-2023",
-        "title": "The latest trends in Graphic design according to you?",
+        "title": "The latest trends in Real Time Data in App?",
         "href": "/blog/blog-details"
       },
       {
         "imgLink": "./images/blog/blog3.jpg",
         "designation": "Admin",
         "date": "07-03-2023",
-        "title": "What are the latest trends in Graphic design according to you?",
+        "title": "The future of AI",
         "href": "/blog/blog-details"
       }
     ]
@@ -469,21 +469,21 @@
     "informations": [
       {
         "imgLink": "./images/client/client1.png",
-        "title": "Richard Miles",
-        "designation": "Chairman",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "title": "Tareq B",
+        "designation": "Managing Director",
+        "text": "A Visionary Tech Leader"
       },
       {
         "imgLink": "./images/client/client2.png",
-        "title": "Vesta Shufelt",
-        "designation": "Executive Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "title": "Moinul K",
+        "designation": "VP of Data",
+        "text": "A Big Data Expert"
       },
       {
         "imgLink": "./images/client/client3.png",
-        "title": "Joseph Alves",
-        "designation": "Managing Director",
-        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+        "title": "Jose S",
+        "designation": "Development Executive",
+        "text": "Always gives 100%+"
       },
       {
         "imgLink": "./images/client/client1.png",
