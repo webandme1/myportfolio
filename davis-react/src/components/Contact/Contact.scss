@@ -40,20 +40,25 @@
 }
 
 .st-form-field textarea {
+  text-align: center; /* Add this line */
   height: 150px;
 }
 
 // Contact Info Wrap
 
 .st-contact-text {
-  margin-top: -6px;
-  margin-bottom: 23px;
+  justify-content: center; /* Add this line */
+  align-items: center; /* Add this line */
+  text-align: center; /* Add this line */
+  margin-top: -3px;
+  margin-bottom: 30px;
 }
 
 .st-single-contact-info {
   display: flex;
-  align-items: flex-start;
-  margin-bottom: 30px;
+  text-align: center; /* Add this line */
+  //align-items: flex-start;
+  margin-bottom: 60px;
 
   &:hover {
     .st-icon-wrap {
@@ -79,6 +84,7 @@
 }
 
 .st-single-info-details {
+  text-align: center; /* Add this line */
   h4 {
     font-size: 20px;
     font-weight: 400;
