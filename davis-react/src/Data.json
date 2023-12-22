@@ -510,22 +510,22 @@
     "experienceTitle": "Experience",
     "experience": [
       {
-        "title": "Senior UX/UI Designer",
-        "duration": "Jan 2020 - Present",
-        "subTitle": "Bergnaum, Hills and Howe",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "President and Chief Scientist",
+        "duration": "Feb 2023 - Present",
+        "subTitle": "INTAAS Corp",
+        "text": "An Intelligence as a Service Company"
       },
       {
-        "title": "Product Designer",
-        "duration": "Jan 2016 - December 2019",
-        "subTitle": "Langosh, Sipes and Raynor",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Program Manager",
+        "duration": "Mar 2022 - Jan 2023",
+        "subTitle": "Rain Bird Corp",
+        "text": "An Intelligent Water Management Company"
       },
       {
-        "title": "UI/UX Designer",
-        "duration": "Jan 2014 - December 2015",
-        "subTitle": "Strosin, Maggio and Homenick",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Technical Project Manager",
+        "duration": "Nov 2014 - Feb 2022",
+        "subTitle": "Imfosys Ltd",
+        "text": "An IT Services Company"
       }
     ],
     "educationTitle": "Education",
