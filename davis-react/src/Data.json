@@ -138,7 +138,7 @@
         "delay": "400"
       },
       {
-        "title": "Data Pipe line",
+        "title": "Data Pipe Line",
         "progress": "85%",
         "effect": "fade-up",
         "duration": "500",
@@ -400,42 +400,42 @@
     "informations": [
       {
         "imgLink": "./images/blog/blog1.jpg",
-        "designation": "Admin",
+        "designation": "Naser C",
         "date": "07-03-2023",
         "title": "latest trends in Machine Learning",
         "href": "/blog/blog-details"
       },
       {
         "imgLink": "./images/blog/blog2.jpg",
-        "designation": "Admin",
+        "designation": "Naser C",
         "date": "07-03-2023",
         "title": "What are the latest trends in LLM?",
         "href": "/blog/blog-details"
       },
       {
         "imgLink": "./images/blog/blog3.jpg",
-        "designation": "Admin",
+        "designation": "Naser C",
         "date": "07-03-2023",
         "title": "Trends in Predictive Analytics",
         "href": "/blog/blog-details"
       },
       {
         "imgLink": "./images/blog/blog1.jpg",
-        "designation": "Admin",
+        "designation": "Naser C",
         "date": "07-03-2023",
         "title": "What are the latest Trends in Vector DB",
         "href": "/blog/blog-details"
       },
       {
         "imgLink": "./images/blog/blog2.jpg",
-        "designation": "Admin",
+        "designation": "Naser C",
         "date": "07-03-2023",
         "title": "The latest trends in Real Time Data in App?",
         "href": "/blog/blog-details"
       },
       {
         "imgLink": "./images/blog/blog3.jpg",
-        "designation": "Admin",
+        "designation": "Naser C",
         "date": "07-03-2023",
         "title": "The future of AI",
         "href": "/blog/blog-details"
@@ -469,19 +469,19 @@
     },
     "informations": [
       {
-        "imgLink": "./images/client/client1.png",
+        "imgLink": "./images/client/client1.jpg",
         "title": "Tareq B",
         "designation": "Managing Director",
         "text": "A Visionary Tech Leader"
       },
       {
-        "imgLink": "./images/client/client2.png",
+        "imgLink": "./images/client/client2.jpg",
         "title": "Moinul K",
         "designation": "VP of Data",
         "text": "A Big Data Expert"
       },
       {
-        "imgLink": "./images/client/client3.png",
+        "imgLink": "./images/client/client3.jpg",
         "title": "Jose S",
         "designation": "Development Executive",
         "text": "Always gives 100%+"
