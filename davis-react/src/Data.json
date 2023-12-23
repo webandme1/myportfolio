@@ -118,42 +118,42 @@
     "skills": [
       {
         "title": "Machine Learning",
-        "progress": "95%",
+        "progress": "",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
       },
       {
         "title": "Large Language Models",
-        "progress": "75%",
+        "progress": "",
         "effect": "fade-up",
         "duration": "500",
         "delay": "300"
       },
       {
         "title": "Vector DB",
-        "progress": "90%",
+        "progress": "",
         "effect": "fade-up",
         "duration": "500",
         "delay": "400"
       },
       {
         "title": "Data Pipe Line",
-        "progress": "85%",
+        "progress": "",
         "effect": "fade-up",
         "duration": "500",
         "delay": "500"
       },
       {
         "title": "Data Lake",
-        "progress": "80%",
+        "progress": "",
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
       },
       {
         "title": "Full Stack Software Development",
-        "progress": "90%",
+        "progress": "",
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"
@@ -373,7 +373,7 @@
   },
   
   "blogData": {
-    "useFor": "blog",
+    "useFor": "Works",
     "sliderSetting": {
       "infinite": true,
       "speed": 500,
