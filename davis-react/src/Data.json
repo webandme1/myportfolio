@@ -174,8 +174,8 @@
       {
         "imgLink": "./images/portfolio/portfolio2.jpg",
         "imgLinkLg": "./images/portfolio/portfolio2_lg.jpg",
-        "title": "Product Design",
-        "subTitle": "Design / Marketing",
+        "title": "News Site",
+        "subTitle": "Real Time News",
         "effect": "fade-up",
         "duration": "500",
         "delay": "300"
