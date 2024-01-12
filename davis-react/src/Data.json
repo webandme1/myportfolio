@@ -169,7 +169,8 @@
         "subTitle": "PlatformsforAIbyAI.com",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "200"
+        "delay": "200",
+        "targetUrl": "https://platformsforaibyai.com"
       },
       {
         "imgLink": "./images/portfolio/portfolio2.jpg",
@@ -178,7 +179,8 @@
         "subTitle": "Ai2pages.com",
         "effect": "fade-up",
         "duration": "500",
-        "delay": "300"
+        "delay": "300",
+        "targetUrl": "https://ai2pages.com"
       },
       {
         "imgLink": "./images/portfolio/portfolio3.jpg",
